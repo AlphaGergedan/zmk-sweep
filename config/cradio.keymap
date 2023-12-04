@@ -10,26 +10,6 @@
 
 / {
 
-  combos {
-    compatible = "zmk,combos";
-    combo_del {
-      timeout-ms = <50>;
-      key-positions = <15 16>;
-      bindings = <&kp BSPC>;
-    };
-    combo_tab {
-      timeout-ms = <50>;
-      key-positions = <16 17>;
-      bindings = <&kp TAB>;
-    };
-
-    combo_alt {
-      timeout-ms = <50>;
-      key-positions = <25 26>;
-      bindings = <&kp LALT>;
-    };
-
-  };
 
 #define BASE 0
 #define NUMBER 1
