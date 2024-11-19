@@ -32,8 +32,8 @@
     number_layer {
       bindings = <
         &kp N1  &kp N2  &kp N3    &kp N4    &kp N5      &kp N6   &kp N7    &kp N8   &kp N9    &kp N0
-        &kp TAB &kp ESCAPE &kp GRAVE &kp MINUS &kp EQUAL   &kp SEMICOLON &kp APOSTROPHE &kp LEFT_BRACKET &kp RIGHT_BRACKET &kp NON_US_BACKSLASH
-        &kp Z   &kp X   &kp C     &kp V     &kp B       &kp N    &kp COMMA &kp DOT  &kp SLASH &kp BSPC
+        &kp TAB &kp ESCAPE &kp GRAVE &kp MINUS &kp EQUAL   &kp SEMICOLON &kp APOSTROPHE &kp LEFT_BRACKET &kp RIGHT_BRACKET &kp BACKSLASH
+        &kp Z   &kp X   &kp C     &kp LALT  &kp B       &kp N    &kp COMMA &kp DOT  &kp SLASH &kp BSPC
               &kp LGUI &mt LSHIFT SPACE       &kp LCTRL &trans
         >;
     };
