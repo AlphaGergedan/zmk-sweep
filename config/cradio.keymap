@@ -42,7 +42,7 @@
       bindings = <
         &kp F1         &kp F2         &kp F3       &kp F4          &kp F5       &kp F6   &kp F7   &kp F8 &kp F9    &kp F10
         &mmv MOVE_LEFT &mmv MOVE_DOWN &mmv MOVE_UP &mmv MOVE_RIGHT &mkp LCLK    &kp H    &kp J    &kp K  &kp F11   &kp F12
-        &kp Z          &kp X          &kp C        &kp V           &mkp RCLK    &kp LEFT &kp DOWN &kp UP &kp RIGHT &trans
+        &kp Z          &kp X          &kp PG_DN    &kp PG_UP       &mkp RCLK    &kp LEFT &kp DOWN &kp UP &kp RIGHT &trans
               &kp LGUI &mt LSHIFT SPACE       &kp LCTRL &trans
         >;
     };
